@@ -1,0 +1,1032 @@
+Number;Site_Type;Percentage;Phylum;Class;Order;Family
+1;AG;0.065530527;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+2;AG;0.040573842;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+3;AG;0.037130907;Proteobacteria;Alphaproteobacteria;SAR11 clade;LD12 freshwater group
+4;AG;0.035445814;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+5;AG;0.028735199;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+6;AG;0.021998462;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+7;AG;0.019038474;Cyanobacteria;Chloroplast;;
+8;AG;0.016655247;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+9;AG;0.01503008;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+10;AG;0.014652811;Cyanobacteria;Chloroplast;;
+11;AG;0.014017666;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+12;AG;0.01147694;Cyanobacteria;Chloroplast;;
+13;AG;0.01137518;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+14;AG;0.011185479;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+15;AG;0.011068407;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+16;AG;0.010614286;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+17;AG;0.010172069;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+18;AG;0.010005828;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae
+19;AG;0.009600256;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+20;AG;0.008952337;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+21;AG;0.008865297;Cyanobacteria;Chloroplast;;
+22;AG;0.008487809;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+23;AG;0.008356417;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+24;AG;0.007271624;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+25;AG;0.006952604;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+26;AG;0.006903161;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+27;AG;0.006810825;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+28;AG;0.006494899;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+29;AG;0.006463194;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+30;AG;0.006417865;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+31;AG;0.006415311;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+32;AG;0.006287165;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;env.OPS 17
+33;AG;0.00599651;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+34;AG;0.005846752;Chlorobi;Chlorobia;Chlorobiales;OPB56
+35;AG;0.005779492;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+36;AG;0.005505671;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+37;AG;0.005326963;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+38;AG;0.005325772;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+39;AG;0.005274045;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+40;AG;0.00507341;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+41;AG;0.005033265;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+42;AG;0.004715631;Verrucomicrobia;OPB35 soil group;;
+43;AG;0.004686988;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+44;AG;0.004585298;Verrucomicrobia;OPB35 soil group;;
+45;AG;0.004428257;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+46;AG;0.004414068;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+47;AG;0.004369;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+48;AG;0.004350426;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+49;AG;0.004329842;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+50;AG;0.004260413;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+51;AG;0.004200777;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+52;AG;0.004136757;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+53;AG;0.003996947;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+54;AG;0.003977509;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+55;AG;0.003732725;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+56;AG;0.003726009;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+57;AG;0.003706252;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+58;AG;0.003676847;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+59;AG;0.003655007;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae
+60;AG;0.003640062;Cyanobacteria;Chloroplast;;
+61;AG;0.003619767;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae
+62;AG;0.003551701;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+63;AG;0.003465702;Cyanobacteria;Chloroplast;;
+64;AG;0.003438346;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+65;AG;0.003193847;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+66;AG;0.003180961;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+67;AG;0.003171894;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+68;AG;0.003135982;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+69;AG;0.003041426;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+70;AG;0.003032861;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+71;AG;0.002930509;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+72;AG;0.002846631;Chlorobi;Chlorobia;Chlorobiales;OPB56
+73;AG;0.002819861;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae
+74;AG;0.002815483;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+75;AG;0.002731446;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+76;AG;0.002715859;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+77;AG;0.002690954;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+78;AG;0.002538001;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+79;AG;0.002498332;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae
+80;AG;0.002406452;Verrucomicrobia;WCHB1-41;;
+81;AG;0.002404574;Chloroflexi;SL56 marine group;uncultured bacterium;
+82;AG;0.002392886;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+83;AG;0.002370029;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+84;AG;0.002356684;Proteobacteria;Deltaproteobacteria;Oligoflexales;Oligoflexaceae
+85;AG;0.002313989;Proteobacteria;Gammaproteobacteria;;
+86;AG;0.002289209;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+87;AG;0.002242978;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae
+88;AG;0.00223084;Proteobacteria;Gammaproteobacteria;Methylococcales;
+89;AG;0.002211851;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+90;AG;0.002207093;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+91;AG;0.002200769;Cyanobacteria;Chloroplast;;
+92;AG;0.00214231;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+93;AG;0.002133602;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+94;AG;0.002108579;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+95;AG;0.00210744;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+96;AG;0.002101465;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+97;AG;0.002074491;Verrucomicrobia;OPB35 soil group;;
+98;AG;0.002058725;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+99;AG;0.002055784;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+100;AG;0.001977475;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+101;AG;0.001958036;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+102;AG;0.001951925;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+103;AG;0.00194739;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+104;AG;0.00194579;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+105;AG;0.001945597;Firmicutes;Bacilli;Bacillales;Family XII
+106;AG;0.001901302;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order;Unknown Family
+107;AG;0.001863292;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+108;AG;0.001849146;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+109;AG;0.001841696;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+110;AG;0.001830649;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+111;AG;0.001820781;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+112;AG;0.001811117;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae
+113;AG;0.001804246;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+114;AG;0.001803369;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+115;AG;0.001786454;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+116;AG;0.001775223;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+117;AG;0.001771653;Cyanobacteria;Chloroplast;Prochlorales cyanobacterium EV-7;
+118;AG;0.001750999;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+119;AG;0.001716747;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+120;AG;0.001712905;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+121;AG;0.001698137;Planctomycetes;OM190;uncultured bacterium;
+122;AG;0.001641375;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae
+123;AG;0.001639518;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+124;AG;0.00163036;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+125;AG;0.001629168;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+126;AG;0.001615691;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+127;AG;0.001610522;Armatimonadetes;Armatimonadia;Armatimonadales;Armatimonadaceae
+128;AG;0.001600722;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+129;AG;0.001597058;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+130;AG;0.001576453;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bdellovibrionaceae
+131;AG;0.001568559;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+132;AG;0.001552002;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae
+133;AG;0.001549847;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+134;AG;0.001526816;Proteobacteria;Gammaproteobacteria;;
+135;AG;0.001466434;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+136;AG;0.001440038;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+137;AG;0.001410629;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+138;AG;0.001409621;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+139;AG;0.001407971;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;uncultured
+140;AG;0.001371219;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+141;AG;0.001329947;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+142;AG;0.001325131;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae
+143;AG;0.001321148;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+144;AG;0.001317459;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+145;AG;0.001315781;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+146;AG;0.001315385;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae
+147;AG;0.001295108;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+148;AG;0.001292751;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+149;AG;0.001290735;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+150;AG;0.001277846;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+151;AG;0.001277402;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+152;AG;0.001264025;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+153;AG;0.001230585;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae
+154;AG;0.001228947;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae
+155;AG;0.001207809;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+156;AG;0.001207011;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+157;AG;0.00119922;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+158;AG;0.001192313;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+159;AG;0.001174163;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+160;AG;0.001160518;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+161;AG;0.001159631;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+162;AG;0.001139065;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+163;AG;0.001137909;Proteobacteria;Deltaproteobacteria;Bradymonadales;
+164;AG;0.001133085;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacterales Incertae Sedis
+165;AG;0.001118504;Verrucomicrobia;OPB35 soil group;;
+166;AG;0.001113396;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+167;AG;0.001101758;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+168;AG;0.001100221;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae
+169;AG;0.001098891;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae
+170;AG;0.001082385;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae
+171;AG;0.001079883;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+172;AG;0.001059895;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+173;AG;0.00105681;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+174;AG;0.001055142;Verrucomicrobia;Spartobacteria;Chthoniobacterales;LD29
+175;AG;0.001046615;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+176;AG;0.001045785;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+177;AG;0.001042898;Bacteroidetes;;;
+178;AG;0.001039851;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+179;AG;0.001031797;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+180;AG;0.001009494;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+181;AG;0.001007922;Acidobacteria;Blastocatellia;Blastocatellales;Blastocatellaceae (Subgroup 4)
+182;AG;0.001000166;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+183;Br24;0.058440839;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+184;Br24;0.046980413;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+185;Br24;0.036991577;Proteobacteria;Proteobacteria Incertae Sedis;Unknown Order;Unknown Family
+186;Br24;0.024321459;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+187;Br24;0.020375587;Proteobacteria;Gammaproteobacteria;Chromatiales;Ectothiorhodospiraceae
+188;Br24;0.020201758;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+189;Br24;0.020144603;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae
+190;Br24;0.019050094;Cyanobacteria;Chloroplast;;
+191;Br24;0.0189703;Cyanobacteria;Chloroplast;;
+192;Br24;0.017913852;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+193;Br24;0.017356126;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+194;Br24;0.016694297;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+195;Br24;0.016583903;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+196;Br24;0.016490585;Cyanobacteria;Chloroplast;;
+197;Br24;0.013798185;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Litoricolaceae
+198;Br24;0.012045028;Proteobacteria;Gammaproteobacteria;Oceanospirillales;
+199;Br24;0.011395243;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+200;Br24;0.010532626;Cyanobacteria;Chloroplast;Arachis hypogaea var. vulgaris;
+201;Br24;0.010042554;Proteobacteria;Gammaproteobacteria;Thiotrichales;Piscirickettsiaceae
+202;Br24;0.009233974;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+203;Br24;0.008723435;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+204;Br24;0.008473744;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+205;Br24;0.008026127;Cyanobacteria;Chloroplast;;
+206;Br24;0.007954482;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+207;Br24;0.007905108;Cyanobacteria;Chloroplast;uncultured diatom;
+208;Br24;0.00784191;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+209;Br24;0.007720444;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+210;Br24;0.007701897;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae
+211;Br24;0.007664463;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+212;Br24;0.007626211;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+213;Br24;0.007601837;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+214;Br24;0.007523023;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+215;Br24;0.007512514;Cyanobacteria;Chloroplast;;
+216;Br24;0.00747557;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+217;Br24;0.007253586;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86 clade
+218;Br24;0.006836425;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+219;Br24;0.006735284;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+220;Br24;0.006481923;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+221;Br24;0.006456921;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+222;Br24;0.006307341;Proteobacteria;Proteobacteria Incertae Sedis;Unknown Order;Unknown Family
+223;Br24;0.005888436;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+224;Br24;0.005805286;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+225;Br24;0.005599961;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae
+226;Br24;0.005576154;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+227;Br24;0.005246674;Proteobacteria;Alphaproteobacteria;SAR11 clade;Surface 1
+228;Br24;0.005187587;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+229;Br24;0.005101801;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+230;Br24;0.004980187;Proteobacteria;Alphaproteobacteria;SAR11 clade;uncultured bacterium
+231;Br24;0.004969129;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+232;Br24;0.004902814;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae
+233;Br24;0.004898425;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86 clade
+234;Br24;0.004885837;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+235;Br24;0.004794798;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+236;Br24;0.004788991;Cyanobacteria;Chloroplast;;
+237;Br24;0.004743215;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+238;Br24;0.004654905;Cyanobacteria;Chloroplast;Arachis hypogaea var. vulgaris;
+239;Br24;0.004631479;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+240;Br24;0.004562903;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+241;Br24;0.00453309;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+242;Br24;0.004479168;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae
+243;Br24;0.004471609;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+244;Br24;0.004385843;Proteobacteria;Alphaproteobacteria;SAR11 clade;
+245;Br24;0.004241852;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+246;Br24;0.004224792;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+247;Br24;0.004189884;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+248;Br24;0.004136005;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+249;Br24;0.004097228;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+250;Br24;0.004042764;Verrucomicrobia;OPB35 soil group;;
+251;Br24;0.004026991;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae
+252;Br24;0.004023473;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+253;Br24;0.004006665;Cyanobacteria;Chloroplast;;
+254;Br24;0.003922075;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+255;Br24;0.003879415;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+256;Br24;0.003769783;Proteobacteria;Alphaproteobacteria;SAR11 clade;Surface 1
+257;Br24;0.003765144;Proteobacteria;Gammaproteobacteria;Oceanospirillales;OM182 clade
+258;Br24;0.003655646;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+259;Br24;0.003621484;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+260;Br24;0.003488525;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+261;Br24;0.003428786;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+262;Br24;0.003289072;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+263;Br24;0.003269482;Proteobacteria;Proteobacteria Incertae Sedis;Unknown Order;Unknown Family
+264;Br24;0.00323406;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+265;Br24;0.002913438;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Halieaceae
+266;Br24;0.002881546;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+267;Br24;0.002867579;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;uncultured
+268;Br24;0.002842929;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+269;Br24;0.002764159;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+270;Br24;0.002738776;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+271;Br24;0.002726149;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae
+272;Br24;0.002696167;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+273;Br24;0.002676982;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+274;Br24;0.002618148;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+275;Br24;0.002608213;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+276;Br24;0.002590573;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II
+277;Br24;0.002533741;Tenericutes;Mollicutes;Acholeplasmatales;Acholeplasmataceae
+278;Br24;0.0025256;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae
+279;Br24;0.002460811;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+280;Br24;0.002429071;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae
+281;Br24;0.00241971;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+282;Br24;0.002298967;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+283;Br24;0.002268061;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+284;Br24;0.002191967;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+285;Br24;0.002177461;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+286;Br24;0.002153291;Cyanobacteria;Chloroplast;;
+287;Br24;0.002150958;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae
+288;Br24;0.002078039;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+289;Br24;0.002077808;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+290;Br24;0.002007663;Planctomycetes;OM190;uncultured planctomycete;
+291;Br24;0.001995314;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+292;Br24;0.001950684;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+293;Br24;0.001919352;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+294;Br24;0.001897287;Cyanobacteria;Chloroplast;;
+295;Br24;0.001854496;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+296;Br24;0.00180176;Cyanobacteria;Chloroplast;;
+297;Br24;0.001781277;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Moraxellaceae
+298;Br24;0.001779714;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+299;Br24;0.001763755;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Litoricolaceae
+300;Br24;0.001753086;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+301;Br24;0.001674307;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+302;Br24;0.001674074;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+303;Br24;0.001652743;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II
+304;Br24;0.001630479;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+305;Br24;0.001570236;Cyanobacteria;Chloroplast;;
+306;Br24;0.001550811;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+307;Br24;0.001523627;Proteobacteria;Gammaproteobacteria;Oceanospirillales;OM182 clade
+308;Br24;0.001521086;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+309;Br24;0.001428242;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+310;Br24;0.001419893;Proteobacteria;Gammaproteobacteria;Vibrionales;Vibrionaceae
+311;Br24;0.001398094;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+312;Br24;0.001392672;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae
+313;Br24;0.001361629;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+314;Br24;0.001301098;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86 clade
+315;Br24;0.001288673;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+316;Br24;0.001260187;Cyanobacteria;Chloroplast;Tetraselmis subcordiformis;
+317;Br24;0.001259981;Actinobacteria;Acidimicrobiia;Acidimicrobiales;OM1 clade
+318;Br24;0.001257612;Bacteroidetes;Bacteroidetes Incertae Sedis;Order III;Unknown Family
+319;Br24;0.001256234;Proteobacteria;Alphaproteobacteria;Rickettsiales;SHWN-night2
+320;Br24;0.001239491;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+321;Br24;0.00122585;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+322;Br24;0.001215658;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+323;Br24;0.00120849;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+324;Br24;0.001207006;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured bacterium
+325;Br24;0.001195408;Cyanobacteria;Chloroplast;uncultured organism;
+326;Br24;0.001174047;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+327;Br24;0.001173501;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+328;Br24;0.001163993;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+329;Br24;0.001148683;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade
+330;Br24;0.001137525;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+331;Br24;0.001086136;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+332;Br24;0.001049584;Proteobacteria;Gammaproteobacteria;Oceanospirillales;
+333;Br24;0.001046617;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+334;Br24;0.001038823;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+335;Br24;0.001036475;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae
+336;Br24;0.001032769;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Spongiibacteraceae
+337;Br24;0.001030439;Actinobacteria;Actinobacteria;PeM15;uncultured bacterium
+338;Br24;0.001030155;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+339;Br24;0.001002979;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+340;Br24;0.001002338;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Erythrobacteraceae
+341;Br124;0.034797344;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+342;Br124;0.024601323;Proteobacteria;Alphaproteobacteria;SAR11 clade;LD12 freshwater group
+343;Br124;0.021464975;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+344;Br124;0.019297568;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+345;Br124;0.017368005;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+346;Br124;0.015626125;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+347;Br124;0.014345606;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+348;Br124;0.014073665;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+349;Br124;0.013500427;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+350;Br124;0.01315566;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+351;Br124;0.012990637;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+352;Br124;0.012904596;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+353;Br124;0.01232982;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+354;Br124;0.010837164;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+355;Br124;0.010484066;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+356;Br124;0.010204107;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+357;Br124;0.009738146;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+358;Br124;0.00924751;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+359;Br124;0.009179419;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+360;Br124;0.008943807;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+361;Br124;0.008780608;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+362;Br124;0.008554949;Verrucomicrobia;OPB35 soil group;;
+363;Br124;0.008463284;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+364;Br124;0.008312671;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+365;Br124;0.007973676;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+366;Br124;0.007684064;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+367;Br124;0.007485406;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+368;Br124;0.007379034;Proteobacteria;Gammaproteobacteria;Methylococcales;
+369;Br124;0.007165216;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+370;Br124;0.006835296;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+371;Br124;0.006609543;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+372;Br124;0.006488989;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+373;Br124;0.006411603;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+374;Br124;0.006243073;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+375;Br124;0.005843275;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+376;Br124;0.005565876;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+377;Br124;0.005459324;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+378;Br124;0.005394728;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+379;Br124;0.005292349;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+380;Br124;0.005079012;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+381;Br124;0.005027407;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+382;Br124;0.004988212;Cyanobacteria;Chloroplast;;
+383;Br124;0.004949333;Proteobacteria;Gammaproteobacteria;;
+384;Br124;0.004945914;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+385;Br124;0.004939926;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;env.OPS 17
+386;Br124;0.004876189;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+387;Br124;0.004813552;Cyanobacteria;Chloroplast;;
+388;Br124;0.004761868;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+389;Br124;0.004756857;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+390;Br124;0.004487924;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+391;Br124;0.004468016;Cyanobacteria;Chloroplast;;
+392;Br124;0.004402433;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+393;Br124;0.004243293;Proteobacteria;Gammaproteobacteria;;
+394;Br124;0.004224903;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+395;Br124;0.004150644;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+396;Br124;0.00407398;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+397;Br124;0.003987748;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+398;Br124;0.003920589;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+399;Br124;0.003905315;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+400;Br124;0.003892006;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+401;Br124;0.003851359;Verrucomicrobia;OPB35 soil group;;
+402;Br124;0.003673417;Planctomycetes;OM190;;
+403;Br124;0.003661737;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+404;Br124;0.00359893;Chlorobi;Chlorobia;Chlorobiales;OPB56
+405;Br124;0.003453739;Proteobacteria;Gammaproteobacteria;;
+406;Br124;0.003385344;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+407;Br124;0.003355811;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+408;Br124;0.003308235;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+409;Br124;0.003273893;Cyanobacteria;Chloroplast;;
+410;Br124;0.003208589;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+411;Br124;0.003190667;Chlorobi;Chlorobia;Chlorobiales;OPB56
+412;Br124;0.003099935;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+413;Br124;0.003029376;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+414;Br124;0.002993191;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+415;Br124;0.002921361;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+416;Br124;0.002887169;Planctomycetes;Planctomycetacia;Planctomycetales;Planctomycetaceae
+417;Br124;0.002806867;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+418;Br124;0.002755164;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+419;Br124;0.002751669;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+420;Br124;0.002749894;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae
+421;Br124;0.002708257;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+422;Br124;0.002670097;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+423;Br124;0.002660975;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+424;Br124;0.002612892;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+425;Br124;0.00253421;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+426;Br124;0.002519616;Cyanobacteria;Chloroplast;;
+427;Br124;0.002517771;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+428;Br124;0.002514614;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+429;Br124;0.002503749;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+430;Br124;0.002493842;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+431;Br124;0.002491759;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+432;Br124;0.002486113;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae
+433;Br124;0.002473262;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured
+434;Br124;0.002449772;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+435;Br124;0.002428551;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+436;Br124;0.002426176;Proteobacteria;Gammaproteobacteria;Chromatiales;Chromatiaceae
+437;Br124;0.002384384;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+438;Br124;0.002371036;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+439;Br124;0.002308877;Proteobacteria;Alphaproteobacteria;Rhizobiales;FukuN57
+440;Br124;0.0022988;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+441;Br124;0.002233319;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+442;Br124;0.002230177;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+443;Br124;0.002191124;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae
+444;Br124;0.002172402;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+445;Br124;0.00216684;Proteobacteria;Deltaproteobacteria;Oligoflexales;Oligoflexaceae
+446;Br124;0.002150831;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+447;Br124;0.002093371;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+448;Br124;0.002088265;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+449;Br124;0.002074546;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+450;Br124;0.002035234;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+451;Br124;0.002022339;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+452;Br124;0.001983436;Armatimonadetes;Armatimonadia;Armatimonadales;Armatimonadaceae
+453;Br124;0.001982469;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+454;Br124;0.001966956;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+455;Br124;0.001963868;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+456;Br124;0.001885364;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae
+457;Br124;0.0018561;Verrucomicrobia;OPB35 soil group;;
+458;Br124;0.00185597;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Spongiibacteraceae
+459;Br124;0.001848429;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+460;Br124;0.001802657;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+461;Br124;0.001788064;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae
+462;Br124;0.001756575;Verrucomicrobia;OPB35 soil group;;
+463;Br124;0.001750649;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+464;Br124;0.001738488;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+465;Br124;0.001705197;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);
+466;Br124;0.001694737;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+467;Br124;0.001689699;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+468;Br124;0.001683637;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+469;Br124;0.001676359;Planctomycetes;OM190;uncultured bacterium;
+470;Br124;0.001622862;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+471;Br124;0.001618463;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+472;Br124;0.001617471;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+473;Br124;0.00161159;Proteobacteria;Deltaproteobacteria;Oligoflexales;Oligoflexaceae
+474;Br124;0.001601089;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+475;Br124;0.001594893;Verrucomicrobia;OPB35 soil group;;
+476;Br124;0.001588171;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+477;Br124;0.001584646;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+478;Br124;0.001546745;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;PHOS-HE51
+479;Br124;0.00154619;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+480;Br124;0.001542444;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+481;Br124;0.00153773;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+482;Br124;0.001529482;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+483;Br124;0.001475205;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+484;Br124;0.001460744;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+485;Br124;0.001453204;Cyanobacteria;Chloroplast;Guillardia theta;
+486;Br124;0.001451641;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+487;Br124;0.001438015;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae
+488;Br124;0.001432006;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+489;Br124;0.001430347;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+490;Br124;0.001413082;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+491;Br124;0.001412594;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+492;Br124;0.001412347;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+493;Br124;0.001398729;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+494;Br124;0.001378806;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+495;Br124;0.001366021;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+496;Br124;0.001357239;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+497;Br124;0.00135431;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+498;Br124;0.001352103;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+499;Br124;0.001348383;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+500;Br124;0.001337876;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae
+501;Br124;0.001335334;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+502;Br124;0.001327747;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+503;Br124;0.001314319;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+504;Br124;0.00131069;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;env.OPS 17
+505;Br124;0.001297259;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+506;Br124;0.001254983;Cyanobacteria;Chloroplast;;
+507;Br124;0.00125318;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+508;Br124;0.001250452;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae
+509;Br124;0.001240298;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+510;Br124;0.001239987;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+511;Br124;0.001237874;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+512;Br124;0.001225495;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+513;Br124;0.001213569;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+514;Br124;0.001208095;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+515;Br124;0.001200485;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+516;Br124;0.001197509;Cyanobacteria;Chloroplast;;
+517;Br124;0.001193986;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+518;Br124;0.001182061;Proteobacteria;Deltaproteobacteria;Bradymonadales;
+519;Br124;0.001178592;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+520;Br124;0.001168431;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+521;Br124;0.001165714;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+522;Br124;0.001165298;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+523;Br124;0.001155234;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+524;Br124;0.001152296;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+525;Br124;0.001141971;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+526;Br124;0.00113382;Proteobacteria;Deltaproteobacteria;Oligoflexales;Oligoflexaceae
+527;Br124;0.001132244;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+528;Br124;0.001132042;Cyanobacteria;Chloroplast;Chlorophyta symbiont of Baikalospongia sp.;
+529;Br124;0.001127814;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae
+530;Br124;0.001123624;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+531;Br124;0.001118414;Verrucomicrobia;OPB35 soil group;;
+532;Br124;0.001111903;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+533;Br124;0.001111354;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+534;Br124;0.001108327;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+535;Br124;0.001104951;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae
+536;Br124;0.001104686;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+537;Br124;0.001103496;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+538;Br124;0.001102412;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+539;Br124;0.001094544;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+540;Br124;0.001093406;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+541;Br124;0.001086816;Cyanobacteria;Chloroplast;uncultured bacterium;
+542;Br124;0.001084147;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+543;Br124;0.001083257;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+544;Br124;0.001081825;Cyanobacteria;Chloroplast;;
+545;Br124;0.001073825;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+546;Br124;0.001065004;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+547;Br124;0.00105564;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bacteriovoracaceae
+548;Br124;0.001049661;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+549;Br124;0.0010466;Cyanobacteria;Chloroplast;Prochlorales cyanobacterium EV-7;
+550;Br124;0.001038675;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+551;Br124;0.001033807;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+552;Br124;0.001030089;Verrucomicrobia;OPB35 soil group;;
+553;Br124;0.00102724;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order;Unknown Family
+554;Br124;0.001024623;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+555;Br124;0.001023363;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+556;Br124;0.001021139;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+557;Br124;0.001020986;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+558;Br124;0.001009644;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+559;Br124;0.001008122;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+560;Br124;0.001002384;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae
+561;Br124;0.001002367;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+562;Br28;0.028374773;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+563;Br28;0.024158656;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+564;Br28;0.017892563;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+565;Br28;0.017725727;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+566;Br28;0.017567245;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+567;Br28;0.015583036;Verrucomicrobia;OPB35 soil group;;
+568;Br28;0.015388848;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+569;Br28;0.015162385;Proteobacteria;Gammaproteobacteria;Methylococcales;
+570;Br28;0.014494652;Proteobacteria;Alphaproteobacteria;SAR11 clade;LD12 freshwater group
+571;Br28;0.014138645;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+572;Br28;0.013956842;Proteobacteria;Gammaproteobacteria;;
+573;Br28;0.013670105;Proteobacteria;Gammaproteobacteria;;
+574;Br28;0.013137636;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+575;Br28;0.011640872;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+576;Br28;0.011266762;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+577;Br28;0.011227013;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+578;Br28;0.009957452;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+579;Br28;0.009760194;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+580;Br28;0.009242093;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+581;Br28;0.009090437;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+582;Br28;0.008495136;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+583;Br28;0.008465551;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+584;Br28;0.008362495;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+585;Br28;0.008311023;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+586;Br28;0.008261509;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+587;Br28;0.008206615;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+588;Br28;0.008063151;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+589;Br28;0.007965007;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+590;Br28;0.007780494;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+591;Br28;0.007687644;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+592;Br28;0.007643559;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+593;Br28;0.007622602;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+594;Br28;0.00737672;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+595;Br28;0.007347975;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+596;Br28;0.007268858;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+597;Br28;0.006753356;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+598;Br28;0.006155794;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+599;Br28;0.006024831;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+600;Br28;0.005993287;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+601;Br28;0.005989204;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+602;Br28;0.005629672;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+603;Br28;0.005509856;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+604;Br28;0.005320612;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+605;Br28;0.005319732;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+606;Br28;0.005166543;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+607;Br28;0.005149836;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+608;Br28;0.004649985;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+609;Br28;0.004544802;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+610;Br28;0.004537595;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+611;Br28;0.004462152;Verrucomicrobia;OPB35 soil group;;
+612;Br28;0.004460107;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+613;Br28;0.004440167;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+614;Br28;0.00439373;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+615;Br28;0.004276414;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+616;Br28;0.00426925;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+617;Br28;0.004252246;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+618;Br28;0.004203171;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+619;Br28;0.004170039;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+620;Br28;0.004137759;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+621;Br28;0.003902343;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+622;Br28;0.003801441;Cyanobacteria;Chloroplast;;
+623;Br28;0.003739875;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+624;Br28;0.00357139;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+625;Br28;0.003515005;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+626;Br28;0.003468706;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae
+627;Br28;0.003424182;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;env.OPS 17
+628;Br28;0.003391771;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+629;Br28;0.003356239;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+630;Br28;0.003224324;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+631;Br28;0.00317578;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+632;Br28;0.003171387;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae
+633;Br28;0.00316322;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+634;Br28;0.0031462;Proteobacteria;Betaproteobacteria;;
+635;Br28;0.003088269;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+636;Br28;0.003039765;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+637;Br28;0.0030126;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+638;Br28;0.00298252;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae
+639;Br28;0.00288071;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+640;Br28;0.002854038;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+641;Br28;0.002801785;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+642;Br28;0.002787034;Proteobacteria;Gammaproteobacteria;;
+643;Br28;0.002767671;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+644;Br28;0.002752466;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+645;Br28;0.002646709;Armatimonadetes;Armatimonadia;Armatimonadales;Armatimonadaceae
+646;Br28;0.002578932;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+647;Br28;0.002577327;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+648;Br28;0.00252728;Cyanobacteria;Chloroplast;;
+649;Br28;0.002492222;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+650;Br28;0.002486376;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+651;Br28;0.002442484;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+652;Br28;0.002360346;Proteobacteria;Alphaproteobacteria;Rhizobiales;FukuN57
+653;Br28;0.002352422;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+654;Br28;0.002284394;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+655;Br28;0.002276804;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+656;Br28;0.002268791;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+657;Br28;0.002246946;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+658;Br28;0.002230001;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+659;Br28;0.002226969;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+660;Br28;0.002174567;Proteobacteria;Deltaproteobacteria;Oligoflexales;Oligoflexaceae
+661;Br28;0.00217416;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+662;Br28;0.002161723;Proteobacteria;Deltaproteobacteria;Oligoflexales;Oligoflexaceae
+663;Br28;0.002145607;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+664;Br28;0.002142231;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+665;Br28;0.002122632;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+666;Br28;0.002121525;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+667;Br28;0.002084341;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+668;Br28;0.002007919;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+669;Br28;0.001924002;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+670;Br28;0.001909274;Cyanobacteria;Chloroplast;;
+671;Br28;0.001909131;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+672;Br28;0.001852987;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+673;Br28;0.001839804;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae
+674;Br28;0.001815836;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae
+675;Br28;0.001804891;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+676;Br28;0.001797124;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+677;Br28;0.001794924;Proteobacteria;Betaproteobacteria;Neisseriales;Neisseriaceae
+678;Br28;0.001780766;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+679;Br28;0.001761832;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+680;Br28;0.001752625;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+681;Br28;0.001747513;Chlorobi;Chlorobia;Chlorobiales;OPB56
+682;Br28;0.001738703;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+683;Br28;0.001736298;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+684;Br28;0.001696949;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+685;Br28;0.001688994;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+686;Br28;0.001688749;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+687;Br28;0.001662916;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+688;Br28;0.001655934;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+689;Br28;0.001612507;Verrucomicrobia;Spartobacteria;Chthoniobacterales;FukuN18 freshwater group
+690;Br28;0.001611153;Cyanobacteria;Chloroplast;;
+691;Br28;0.001609022;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+692;Br28;0.001605886;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae
+693;Br28;0.001578137;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+694;Br28;0.001577236;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+695;Br28;0.001570948;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bacteriovoracaceae
+696;Br28;0.001544966;Cyanobacteria;Chloroplast;uncultured bacterium;
+697;Br28;0.001539255;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+698;Br28;0.001537322;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured
+699;Br28;0.001536423;Proteobacteria;Alphaproteobacteria;Rhizobiales;MNG7
+700;Br28;0.001530968;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+701;Br28;0.001511432;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);
+702;Br28;0.001508281;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+703;Br28;0.001471957;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+704;Br28;0.001469255;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+705;Br28;0.001460139;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+706;Br28;0.001447723;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+707;Br28;0.001439528;Cyanobacteria;Chloroplast;;
+708;Br28;0.001438408;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+709;Br28;0.001409175;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+710;Br28;0.001408561;Proteobacteria;Deltaproteobacteria;Myxococcales;VHS-B3-70
+711;Br28;0.001390971;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+712;Br28;0.001390549;Cyanobacteria;Chloroplast;Prochlorales cyanobacterium EV-7;
+713;Br28;0.00138379;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+714;Br28;0.001376109;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+715;Br28;0.001372983;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+716;Br28;0.00136542;Cyanobacteria;Chloroplast;Guillardia theta;
+717;Br28;0.001364741;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+718;Br28;0.001348199;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+719;Br28;0.001334071;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+720;Br28;0.001332392;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+721;Br28;0.001331724;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+722;Br28;0.001327125;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+723;Br28;0.001290329;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+724;Br28;0.001286577;Cyanobacteria;Chloroplast;;
+725;Br28;0.001286358;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order;Unknown Family
+726;Br28;0.001275819;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+727;Br28;0.001265323;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+728;Br28;0.001264649;Proteobacteria;Alphaproteobacteria;Rhizobiales;
+729;Br28;0.001257136;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+730;Br28;0.001256051;Proteobacteria;Betaproteobacteria;;
+731;Br28;0.001247928;Proteobacteria;Betaproteobacteria;Nitrosomonadales;Gallionellaceae
+732;Br28;0.001245365;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+733;Br28;0.001240037;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+734;Br28;0.001239975;Verrucomicrobia;OPB35 soil group;;
+735;Br28;0.001238885;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+736;Br28;0.001235549;Verrucomicrobia;Spartobacteria;Chthoniobacterales;Chthoniobacteraceae
+737;Br28;0.001229104;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+738;Br28;0.001207325;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+739;Br28;0.001206133;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae
+740;Br28;0.001205263;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+741;Br28;0.001188083;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+742;Br28;0.001186379;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+743;Br28;0.001179963;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+744;Br28;0.0011733;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+745;Br28;0.00116852;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+746;Br28;0.001167062;Cyanobacteria;Chloroplast;;
+747;Br28;0.001158529;Cyanobacteria;Chloroplast;;
+748;Br28;0.001147533;Armatimonadetes;Fimbriimonadia;Fimbriimonadales;Fimbriimonadaceae
+749;Br28;0.001144796;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+750;Br28;0.001140851;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae
+751;Br28;0.00113862;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bacteriovoracaceae
+752;Br28;0.001125934;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+753;Br28;0.001124912;Proteobacteria;Deltaproteobacteria;Myxococcales;P3OB-42
+754;Br28;0.001120655;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+755;Br28;0.001097132;Verrucomicrobia;OPB35 soil group;;
+756;Br28;0.001086668;Proteobacteria;Gammaproteobacteria;Cellvibrionales;Spongiibacteraceae
+757;Br28;0.001085896;Verrucomicrobia;OPB35 soil group;;
+758;Br28;0.001074236;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+759;Br28;0.001059983;Cyanobacteria;Chloroplast;;
+760;Br28;0.001050708;Bacteroidetes;Cytophagia;Cytophagales;Cyclobacteriaceae
+761;Br28;0.001045726;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae
+762;Br28;0.001037614;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+763;Br28;0.001036741;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+764;Br28;0.001027261;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+765;Br28;0.001021918;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+766;Br28;0.001012429;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+767;Br28;0.00101058;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+768;Br28;0.001009329;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+769;Br28;0.001006126;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+770;Br29;0.087684773;Proteobacteria;Gammaproteobacteria;Methylococcales;
+771;Br29;0.06814992;Proteobacteria;Gammaproteobacteria;;
+772;Br29;0.028758267;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+773;Br29;0.027000597;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+774;Br29;0.026743307;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+775;Br29;0.025231103;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+776;Br29;0.024792669;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+777;Br29;0.022554202;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+778;Br29;0.022368631;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+779;Br29;0.019306771;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+780;Br29;0.019208986;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+781;Br29;0.018523144;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+782;Br29;0.015424129;Proteobacteria;Gammaproteobacteria;;
+783;Br29;0.011783155;Proteobacteria;Betaproteobacteria;Hydrogenophilales;Hydrogenophilaceae
+784;Br29;0.011630677;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+785;Br29;0.011606882;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+786;Br29;0.01057047;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+787;Br29;0.010311398;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+788;Br29;0.009935507;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+789;Br29;0.009286103;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+790;Br29;0.008904432;Proteobacteria;Alphaproteobacteria;SAR11 clade;LD12 freshwater group
+791;Br29;0.008879749;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+792;Br29;0.008312932;Verrucomicrobia;OPB35 soil group;;
+793;Br29;0.008246518;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+794;Br29;0.007956985;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+795;Br29;0.007865692;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+796;Br29;0.007339699;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+797;Br29;0.007237808;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+798;Br29;0.006486177;Verrucomicrobia;Spartobacteria;Chthoniobacterales;FukuN18 freshwater group
+799;Br29;0.006170692;Proteobacteria;Betaproteobacteria;;
+800;Br29;0.005938285;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+801;Br29;0.00586003;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+802;Br29;0.00585686;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+803;Br29;0.00558315;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+804;Br29;0.005105447;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+805;Br29;0.005073236;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+806;Br29;0.005027736;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+807;Br29;0.004938839;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+808;Br29;0.004828504;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+809;Br29;0.004554219;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+810;Br29;0.004527878;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+811;Br29;0.004451003;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+812;Br29;0.004346367;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+813;Br29;0.004329042;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+814;Br29;0.004315027;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+815;Br29;0.00430074;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+816;Br29;0.004155532;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+817;Br29;0.003983383;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+818;Br29;0.003796939;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+819;Br29;0.003716243;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+820;Br29;0.003707147;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+821;Br29;0.003671831;Proteobacteria;Epsilonproteobacteria;Campylobacterales;Campylobacteraceae
+822;Br29;0.003646229;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+823;Br29;0.003458454;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+824;Br29;0.003451329;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+825;Br29;0.003389184;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+826;Br29;0.003375415;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+827;Br29;0.003146742;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+828;Br29;0.003036084;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+829;Br29;0.002963903;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+830;Br29;0.002941736;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+831;Br29;0.002771085;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae
+832;Br29;0.002743842;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+833;Br29;0.002723764;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+834;Br29;0.002674724;Cyanobacteria;Chloroplast;uncultured bacterium;
+835;Br29;0.002656092;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+836;Br29;0.00263182;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+837;Br29;0.002629501;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+838;Br29;0.002628892;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+839;Br29;0.0026182;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+840;Br29;0.002572142;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+841;Br29;0.002539027;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+842;Br29;0.002498972;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+843;Br29;0.002462061;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+844;Br29;0.002448206;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+845;Br29;0.002439395;Proteobacteria;Betaproteobacteria;Nitrosomonadales;Gallionellaceae
+846;Br29;0.00240428;Verrucomicrobia;OPB35 soil group;;
+847;Br29;0.002358797;Proteobacteria;Alphaproteobacteria;Rhizobiales;Methylocystaceae
+848;Br29;0.002211873;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+849;Br29;0.002207475;Armatimonadetes;Armatimonadia;Armatimonadales;Armatimonadaceae
+850;Br29;0.002177068;Cyanobacteria;Chloroplast;;
+851;Br29;0.002172789;Chloroflexi;Chloroflexia;Chloroflexales;Roseiflexaceae
+852;Br29;0.002166874;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Acetobacteraceae
+853;Br29;0.002148907;Verrucomicrobia;Verrucomicrobiae;Verrucomicrobiales;Verrucomicrobiaceae
+854;Br29;0.002128499;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+855;Br29;0.002118302;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+856;Br29;0.00206436;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+857;Br29;0.002021148;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+858;Br29;0.002011117;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+859;Br29;0.002002627;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+860;Br29;0.001962248;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+861;Br29;0.001955064;Armatimonadetes;Fimbriimonadia;Fimbriimonadales;Fimbriimonadaceae
+862;Br29;0.001942378;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+863;Br29;0.001904479;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+864;Br29;0.001809261;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+865;Br29;0.001805732;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+866;Br29;0.001795711;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+867;Br29;0.001724489;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+868;Br29;0.001723139;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+869;Br29;0.001721159;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+870;Br29;0.001691613;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+871;Br29;0.001667106;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+872;Br29;0.001651807;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+873;Br29;0.001649705;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+874;Br29;0.001614273;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+875;Br29;0.001587464;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+876;Br29;0.001582488;Proteobacteria;Alphaproteobacteria;Rhizobiales;FukuN57
+877;Br29;0.001568904;Proteobacteria;Deltaproteobacteria;Myxococcales;VHS-B3-70
+878;Br29;0.001564042;Firmicutes;Erysipelotrichia;Erysipelotrichales;Erysipelotrichaceae
+879;Br29;0.001561711;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+880;Br29;0.00153313;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+881;Br29;0.001500271;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+882;Br29;0.001498514;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+883;Br29;0.00147233;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+884;Br29;0.001449903;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+885;Br29;0.001407679;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bacteriovoracaceae
+886;Br29;0.001397857;Bacteroidetes;Bacteroidetes Incertae Sedis;Order III;BIgi5
+887;Br29;0.001387842;Verrucomicrobia;Opitutae;Opitutae vadinHA64;uncultured bacterium
+888;Br29;0.001386369;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+889;Br29;0.001374663;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+890;Br29;0.001359843;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+891;Br29;0.001351141;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+892;Br29;0.001342536;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+893;Br29;0.001322175;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+894;Br29;0.001311048;Proteobacteria;Betaproteobacteria;Nitrosomonadales;Gallionellaceae
+895;Br29;0.00129748;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadales Incertae Sedis
+896;Br29;0.001289669;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae
+897;Br29;0.001280905;Verrucomicrobia;Verrucomicrobia Incertae Sedis;Unknown Order;Unknown Family
+898;Br29;0.001268372;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+899;Br29;0.001262786;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+900;Br29;0.001251022;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+901;Br29;0.001248889;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+902;Br29;0.001237341;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+903;Br29;0.001220595;Proteobacteria;Betaproteobacteria;;
+904;Br29;0.00121145;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+905;Br29;0.001203707;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+906;Br29;0.001177948;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+907;Br29;0.001160257;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+908;Br29;0.001136176;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+909;Br29;0.001108885;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI
+910;Br29;0.001085746;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+911;Br29;0.001073203;Proteobacteria;Gammaproteobacteria;;
+912;Br29;0.001064648;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+913;Br29;0.001035244;Proteobacteria;Gammaproteobacteria;Xanthomonadales;uncultured
+914;Br29;0.001022159;Planctomycetes;Phycisphaerae;Phycisphaerales;Phycisphaeraceae
+915;Br29;0.001019743;Verrucomicrobia;OPB35 soil group;uncultured bacterium;
+916;Br29;0.001018312;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+917;Br29;0.00101743;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+918;GWP;0.110507661;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+919;GWP;0.071439363;Verrucomicrobia;Spartobacteria;Chthoniobacterales;FukuN18 freshwater group
+920;GWP;0.054358705;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+921;GWP;0.052084264;Verrucomicrobia;Spartobacteria;Chthoniobacterales;FukuN18 freshwater group
+922;GWP;0.045264192;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+923;GWP;0.042379334;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+924;GWP;0.024408412;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+925;GWP;0.022049678;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+926;GWP;0.016730763;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+927;GWP;0.016481993;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+928;GWP;0.014139789;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+929;GWP;0.011404191;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+930;GWP;0.011155085;Proteobacteria;Gammaproteobacteria;Methylococcales;
+931;GWP;0.009399105;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+932;GWP;0.008748037;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+933;GWP;0.008541595;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+934;GWP;0.0085217;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+935;GWP;0.00815809;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+936;GWP;0.007518768;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+937;GWP;0.007404958;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+938;GWP;0.00622403;Verrucomicrobia;Opitutae;Opitutales;Opitutaceae
+939;GWP;0.00556912;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+940;GWP;0.005287504;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+941;GWP;0.005182701;Proteobacteria;Betaproteobacteria;Burkholderiales;Alcaligenaceae
+942;GWP;0.004950178;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+943;GWP;0.004664185;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+944;GWP;0.004609584;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+945;GWP;0.004556438;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+946;GWP;0.004545609;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+947;GWP;0.004360227;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+948;GWP;0.004153655;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+949;GWP;0.003711606;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+950;GWP;0.003706349;Proteobacteria;Alphaproteobacteria;SAR11 clade;LD12 freshwater group
+951;GWP;0.003666405;Proteobacteria;Alphaproteobacteria;Rhizobiales;alphaI cluster
+952;GWP;0.003503634;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae
+953;GWP;0.003501563;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae
+954;GWP;0.00346336;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+955;GWP;0.003446323;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+956;GWP;0.003375802;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+957;GWP;0.003371991;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+958;GWP;0.003357892;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+959;GWP;0.003195717;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+960;GWP;0.003139112;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+961;GWP;0.003119356;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+962;GWP;0.003118392;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+963;GWP;0.003110087;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+964;GWP;0.002836493;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+965;GWP;0.002767766;Proteobacteria;Gammaproteobacteria;;
+966;GWP;0.00270223;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+967;GWP;0.002573594;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+968;GWP;0.002481168;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+969;GWP;0.002441199;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+970;GWP;0.002416211;Proteobacteria;Gammaproteobacteria;Methylococcales;Methylococcaceae
+971;GWP;0.002378837;Bacteroidetes;;;
+972;GWP;0.002371587;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae
+973;GWP;0.002338757;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+974;GWP;0.002321497;Bacteroidetes;Cytophagia;Cytophagales;Cytophagaceae
+975;GWP;0.002294341;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Sphingobacteriaceae
+976;GWP;0.002275947;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+977;GWP;0.00222408;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+978;GWP;0.002208298;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+979;GWP;0.002090953;Bacteroidetes;Cytophagia;Cytophagales;Flammeovirgaceae
+980;GWP;0.001921113;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+981;GWP;0.001920536;Bacteroidetes;Flavobacteriia;Flavobacteriales;Flavobacteriaceae
+982;GWP;0.001904838;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+983;GWP;0.001856237;Verrucomicrobia;Spartobacteria;Chthoniobacterales;FukuN18 freshwater group
+984;GWP;0.001828651;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+985;GWP;0.001818956;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+986;GWP;0.00180498;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+987;GWP;0.001765575;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Oceanospirillaceae
+988;GWP;0.001758315;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+989;GWP;0.001738884;Proteobacteria;Deltaproteobacteria;Bdellovibrionales;Bdellovibrionaceae
+990;GWP;0.001683666;Proteobacteria;Alphaproteobacteria;Sphingomonadales;
+991;GWP;0.001663041;Bacteroidetes;;;
+992;GWP;0.001542439;Bacteroidetes;;;
+993;GWP;0.001527443;Proteobacteria;Gammaproteobacteria;Aeromonadales;Aeromonadaceae
+994;GWP;0.001526739;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+995;GWP;0.001517872;Cyanobacteria;Chloroplast;;
+996;GWP;0.001516759;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae
+997;GWP;0.001473139;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+998;GWP;0.001468072;Proteobacteria;Alphaproteobacteria;Rickettsiales;Rickettsiaceae
+999;GWP;0.001465756;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+1000;GWP;0.001451866;Cyanobacteria;Chloroplast;uncultured phototrophic eukaryote;
+1001;GWP;0.001449789;Proteobacteria;Betaproteobacteria;Burkholderiales;Comamonadaceae
+1002;GWP;0.001425704;Proteobacteria;Betaproteobacteria;Burkholderiales;Oxalobacteraceae
+1003;GWP;0.001405383;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+1004;GWP;0.001400326;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+1005;GWP;0.001397539;Actinobacteria;Actinobacteria;;
+1006;GWP;0.001390756;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;KD3-93
+1007;GWP;0.001330531;Proteobacteria;Betaproteobacteria;Methylophilales;Methylophilaceae
+1008;GWP;0.001316933;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae
+1009;GWP;0.001272593;Proteobacteria;Alphaproteobacteria;Sphingomonadales;
+1010;GWP;0.001265898;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+1011;GWP;0.001265255;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Saprospiraceae
+1012;GWP;0.001262223;Proteobacteria;Betaproteobacteria;Rhodocyclales;Rhodocyclaceae
+1013;GWP;0.001250196;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;uncultured
+1014;GWP;0.001218093;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+1015;GWP;0.001201831;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;Chitinophagaceae
+1016;GWP;0.001201655;Bacteroidetes;Flavobacteriia;Flavobacteriales;Cryomorphaceae
+1017;GWP;0.001198889;Actinobacteria;Actinobacteria;Micrococcales;Microbacteriaceae
+1018;GWP;0.001192147;Proteobacteria;Proteobacteria Incertae Sedis;Unknown Order;Unknown Family
+1019;GWP;0.001180859;Actinobacteria;Actinobacteria;Frankiales;Sporichthyaceae
+1020;GWP;0.001177342;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+1021;GWP;0.001152193;Proteobacteria;Alphaproteobacteria;;
+1022;GWP;0.001124302;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+1023;GWP;0.001118333;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae
+1024;GWP;0.001099661;Bacteroidetes;Sphingobacteriia;Sphingobacteriales;NS11-12 marine group
+1025;GWP;0.001093702;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae
+1026;GWP;0.001089115;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI
+1027;GWP;0.001044314;Bacteroidetes;Cytophagia;Cytophagales;Flammeovirgaceae
+1028;GWP;0.001023248;Proteobacteria;Betaproteobacteria;Burkholderiales;Burkholderiaceae
+1029;GWP;0.001009045;Proteobacteria;Deltaproteobacteria;Myxococcales;Polyangiaceae
+1030;GWP;0.001007498;Bacteroidetes;Flavobacteriia;Flavobacteriales;NS9 marine group
+1031;GWP;0.001006775;Proteobacteria;Alphaproteobacteria;Rhizobiales;Xanthobacteraceae
